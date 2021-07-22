@@ -5,7 +5,7 @@ sort the pair of two values i.e { stock price, day } according to the stock pric
 then we sort according to the day.
 
 n=size of prize array
-TC = O()
+TC = O(nlogn) sorting
 SC = O(2*n)
 
 */
